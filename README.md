@@ -4,7 +4,7 @@
 
 FlowShift should tell a business owner what is safe to spend, forecast the next 14 days, protect payroll, and recommend the cheapest safe timing and rail for payments.
 
-This repository intentionally contains **requirements and reference assets only**. It is not a working banking application, a payment integration, or a production-ready system. Engineers should use this handoff to build the project incrementally. No real money may move in the MVP.
+This repository contains the engineering handoff and a standalone [Person 3 demo](person3/README.md) for the dashboard, rules, autopilot preview, savings, notifications, and audit history. The demo uses synthetic fixtures. No real money may move in the MVP.
 
 ## Read First
 
